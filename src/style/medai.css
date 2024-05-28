@@ -1,0 +1,42 @@
+@media (min-width: 1400px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+      max-width: 800px;
+    }
+  }
+  @media screen and (max-width: 1400px) {
+}
+
+@media screen and (max-width: 1399px) {
+}
+
+@media screen and (max-width: 1199px) {
+  
+}
+
+@media screen and (max-width: 1024px) {
+  
+}
+
+@media screen and (max-width: 991px) {
+  
+}
+
+@media screen and (max-width: 767px) {
+  /* sachin Media 3pages */
+  
+}
+@media screen and (max-device-height: 414px) and (orientation: landscape) {
+}
+@media screen and (max-width: 575px) {
+}
+
+@media screen and (max-width: 479px) {
+}
+
+@media screen and (max-width: 320px) {
+}
